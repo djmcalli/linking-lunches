@@ -99,8 +99,8 @@
         }
         else {
             NSInteger index = (int)(rand() % [tList count]);
-            TLabel.stringValue = [NSString stringWithFormat: @"%@", tList[index]];
-            [tSelectedList addObject:tList[index]];
+            TLabel.stringValue = [NSString stringWithFormat: @"%@", [tList objectAtIndex:index]];
+            [tSelectedList addObject:[tList objectAtIndex:index]];
             [tList removeObjectAtIndex:index];
         }
     }
@@ -139,7 +139,7 @@
     }
     else {
         NSInteger index = (int)(rand() % [tGroupList count]);
-        NSString *returnVal = tGroupList[index];
+        NSString *returnVal = [tGroupList objectAtIndex:index];
         [tGroupList removeObjectAtIndex:index];
         
         return returnVal;

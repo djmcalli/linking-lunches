@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9FA23364-A155-47E8-B39D-58FD2826671C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Linking Lunches</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1A810846-A7D3-41A9-A43A-48CB07D4D871</key>
+		<string>https://github.com/dmcall774/linking-lunches.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>src/mac/Linking Lunches.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1A810846-A7D3-41A9-A43A-48CB07D4D871</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dmcall774/linking-lunches.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1A810846-A7D3-41A9-A43A-48CB07D4D871</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1A810846-A7D3-41A9-A43A-48CB07D4D871</string>
+			<key>IDESourceControlWCCName</key>
+			<string>linking-lunches</string>
+		</dict>
+	</array>
+</dict>
+</plist>

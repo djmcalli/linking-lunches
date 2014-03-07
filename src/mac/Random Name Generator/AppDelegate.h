@@ -29,8 +29,8 @@
 
 - (void) refreshRand;
 
-- (void) tGenName:(BOOL)isGroup;
-- (void) loadList:(NSURL*)url;
+- (void) tGenName:(BOOL) isGroup;
+- (void) loadList:(NSURL*) url;
 - (void) promptList;
 - (void) promptSaveList:(BOOL) isGroup;
 - (void) saveList:(NSURL*) url:(BOOL) isGroup;
